@@ -8,6 +8,8 @@ Subject >> Leadership
 Room    >> Clasroom
         >> FrontOffice
         >> BAK
+Grade   >> Exam
+        >> Homewrok
 
 Orang   >> Mahasiswa      >> Mahasiswa x
         >> Dosen          >> Bu Fa
